@@ -7,7 +7,7 @@
 ## 仕様
 |項目|仕様|
 |:-|:-|
-|信号|RxD,TxD|
+|信号|RxD,TxD ([FT234X](https://akizukidenshi.com/catalog/g/g108461/)とピン互換)|
 |信号レベル|TTL|
 
 ## 部品表
@@ -16,7 +16,7 @@
 |ロジックIC|74LS04|1|うら||
 |セラミックコンデンサ|0.01u|1|うら||
 |整流ダイオード|1N4007|1|うら|[秋月電子](https://akizukidenshi.com/catalog/g/g100934/)|
-|ピンヘッダ|オスL型 1x4(4p)|1|おもて|[FT234X](https://akizukidenshi.com/catalog/g/g108461/)とピン互換|
+|ピンヘッダ|オスL型 1x4(4p)|1|おもて| |
 |細ピンヘッダ|1x8(8p)|2|うら|[秋月電子](https://akizukidenshi.com/catalog/g/g106631/)|
 
 - 細ピンヘッダはブレッドボードに差し込んだ状態でハンダ付けすると歪みにくくなります
